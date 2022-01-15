@@ -1,5 +1,3 @@
-# Auto detect text files and perform LF normalization
-
 def direction(facing, turn):
     # your smart code here
     directions = {
